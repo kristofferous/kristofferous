@@ -29,7 +29,7 @@ A platform connecting youth with job opportunities such as babysitting and clean
 - Built-in messaging system for seamless communication.
 - Utilizes **Next.js** for the frontend, **Directus CMS** for content management, and a custom **NestJS backend** for advanced functionality.
 
-### [RonanHost](https://github.com/ronanservices/RonanHost)
+### [RonanHost](https://github.com/ronanplugins/RonanHost)
 Developed the database and backend using the Entity-Service-Repository-Controller pattern, later migrating to **NestJS**.
 
 ### [Isora.no](https://isora.no)
