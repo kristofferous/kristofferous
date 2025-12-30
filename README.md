@@ -30,7 +30,9 @@ I enjoy working end-to-end — from user interfaces and APIs to low-level system
 
 ### 🧩 Y-Link *(Private / In Development)*
 
-A **private, multi-platform system** focused on real-time control and device orchestration.
+**Y-Link** is a private, multi-platform system focused on real-time control and device orchestration.  
+Public documentation, guides, and technical background are available at:  
+https://www.y-link.no
 
 The project spans:
 - A **desktop PC application**
@@ -55,6 +57,7 @@ Key focuses include:
 - A structured and extensible message format  
 
 ALPINE is developed publicly and independently as a standalone protocol project.
+Repository is available here: https://github.com/alpine-core/protocol
 
 ---
 
