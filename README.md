@@ -109,7 +109,6 @@ Backend and database development using a structured architecture, later migrated
 
 - **Elektroimportøren, Kristiansand**  
   Sales Consultant – 5 years  
-  Ranked **3rd best salesperson** in a given month based on earnings per hour
 
 ---
 
