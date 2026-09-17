@@ -99,18 +99,25 @@ Backend and database development using a structured architecture, later migrated
 
 ## 📚 Education
 
+- **OsloMet – Oslo Metropolitan University**  
+  Bachelor's in Data Engineering (Dataingeniør) – 2026–present  
+  Planning to pursue a **Master's degree in Information Technology**
+
 - **Kristiansand Cathedral School Gimle (KKG)**  
-  3rd year – General Studies  
-  Planning to pursue a **Master’s degree in Information Technology**
+  General Studies – Completed
 
 ---
 
 ## 💼 Experience
 
-- **Elektroimportøren, Kristiansand**  
-  Sales Consultant – 5 years  
+- **Axentra**  
+  Developer  
+
+- **Elektroimportøren, Kristiansand & Billingstad**  
+  Technical Sales Specialist (part-time) – 6 years  
 
 ---
+
 
 ## 📫 Contact
 
